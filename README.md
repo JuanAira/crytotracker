@@ -1,3 +1,3 @@
-#  Curso introducción a React Native
+# Introductory course to react native
 
-Esta es una aplicación contruida con React Native para obtener los últimos precios de las criptomonedas.
+### It is an application to see the updated price of crypto.
